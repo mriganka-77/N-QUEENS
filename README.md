@@ -26,96 +26,12 @@ It's a classic example of a constraint satisfaction problem and is commonly solv
 
 📱 Responsive Design: Optimized for both desktop and mobile devices.
 
-🛠️ Built With
-
-Next.js – React framework for server-rendered applications.
-
-TypeScript – Typed superset of JavaScript.
-
-Tailwind CSS – Utility-first CSS framework.
-
-Vercel – Deployment and hosting platform.
-
-🧑‍💻 Getting Started
-
-Prerequisites
-
-Node.js (v14 or later)
-
-pnpm (preferred) or npm
-
-Installation
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/mriganka-77/N-QUEENS.git
-cd N-QUEENS
-Install dependencies:
 
 
-bash
-Copy
-Edit
-pnpm install
-# or
-npm install
-Run the development server:
-
-bash
-Copy
-Edit
-pnpm dev
-# or
-npm run dev
-Open your browser and navigate to:
-
-arduino
-Copy
-Edit
-http://localhost:3000
-📂 Project Structure
-php
-Copy
-Edit
-N-QUEENS/
-├── app/                 # Next.js application entry
-├── components/          # Reusable React components
-├── hooks/               # Custom React hooks
-├── lib/                 # Utility functions and libraries
-├── public/              # Static assets (images, icons)
-├── styles/              # Global and component-specific styles
-├── tailwind.config.ts   # Tailwind CSS configuration
-├── tsconfig.json        # TypeScript configuration
-└── ...
-Fork the repository
-
-Create a new branch:
-
-bash
-Copy
-Edit
-git checkout -b feature/YourFeature
-Commit your changes:
-
-bash
-Copy
-Edit
-git commit -m 'Add YourFeature'
-Push to the branch:
-
-bash
-Copy
-Edit
-git push origin feature/YourFeature
-Open a pull request
-
-📄 License
+📄 License:
 This project is licensed under the MIT License.
 
-📬 Contact
+📬 Contact:
 For any inquiries or feedback:
 
 GitHub: @mriganka-77
